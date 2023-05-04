@@ -1,0 +1,19 @@
+EEG-based cognitive load of processing events in 3D virtual worlds is lower than processing events in 2D displays: https://doi.org/10.1016/j.ijpsycho.2016.08.013
+
+A. Badarin, N. Smirnov and S. Kurkin, "Biomarkers of brain activity for the performance evaluation in the process of solving cognitive tasks," 2021 5th Scientific School Dynamics of Complex Networks and their Applications (DCNA), Kaliningrad, Russian Federation, 2021, pp. 36-39, doi: 10.1109/DCNA53427.2021.9587001.
+
+Salankar, N., Qaisar, S.M. EEG based stress classification by using difference plots of variational modes and machine learning. J Ambient Intell Human Comput (2022). https://doi.org/10.1007/s12652-022-03856-3
+
+International Journal of Neural Systems VOL. 32, NO. 03 
+Supported Diagnosis of Attention Deficit and Hyperactivity Disorder from EEG Based on Interpretable Kernels for Hidden Markov Models
+M. C. Maya-Piedrahita, P. M. Herrera-Gomez, L. Berrío-Mesa, D. A. Cárdenas-Peña, and A. A. Orozco-Gutierrez
+https://doi.org/10.1142/S0129065722500083
+
+The Deep Learning Method Differentiates Patients with Bipolar Disorder from Controls with High Accuracy Using EEG Data
+https://doi.org/10.1177/15500594221137234
+
+T. Chen, Y. Guo, S. Hao and R. Hong, "Exploring Self-Attention Graph Pooling With EEG-Based Topological Structure and Soft Label for Depression Detection," in IEEE Transactions on Affective Computing, vol. 13, no. 4, pp. 2106-2118, 1 Oct.-Dec. 2022, doi: 10.1109/TAFFC.2022.3210958.
+
+SE-1DCNN-LSTM: A Deep Learning Framework for EEG-Based Automatic Diagnosis of Major Depressive Disorder and Bipolar Disorder
+
+

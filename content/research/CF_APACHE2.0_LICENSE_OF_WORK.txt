@@ -1,0 +1,14 @@
+
+LICENSE TYPE: VOLUNTARY ACTIVE PARTICIPANT OF NEUROSCIENTIFIC RESEARCH ON LEARNING AND INTELLIGENCE
+
+# Volunteer
+VOLUNTEER_LICENCE_CERTIFICATE_VALIDITY: 1 year
+
+ActiveParticipant_License_Certificate_Validity_TYPE1: 1 week
+ActiveParticipant_License_Certificate_Validity_TYPE2: 1 month
+ActiveParticipant_License_Certificate_Validity_TYPE3: 1 year
+ActiveParticipant_License_Certificate_Validity_TYPE4: 4 years
+ActiveParticipant_License_Certificate_Validity_TYPE6: 5 years
+ActiveParticipant_License_Certificate_Validity_TYPE7: Perpetual Open Source Contributor Agreement
+
+
